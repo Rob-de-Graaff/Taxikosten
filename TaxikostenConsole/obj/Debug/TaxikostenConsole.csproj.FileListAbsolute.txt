@@ -1,0 +1,7 @@
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 11 Taxikosten\TaxikostenConsole\TaxikostenConsole\bin\Debug\TaxikostenConsole.exe.config
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 11 Taxikosten\TaxikostenConsole\TaxikostenConsole\bin\Debug\TaxikostenConsole.exe
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 11 Taxikosten\TaxikostenConsole\TaxikostenConsole\bin\Debug\TaxikostenConsole.pdb
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 11 Taxikosten\TaxikostenConsole\TaxikostenConsole\obj\Debug\TaxikostenConsole.csprojAssemblyReference.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 11 Taxikosten\TaxikostenConsole\TaxikostenConsole\obj\Debug\TaxikostenConsole.csproj.CoreCompileInputs.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 11 Taxikosten\TaxikostenConsole\TaxikostenConsole\obj\Debug\TaxikostenConsole.exe
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 11 Taxikosten\TaxikostenConsole\TaxikostenConsole\obj\Debug\TaxikostenConsole.pdb
